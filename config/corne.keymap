@@ -15,7 +15,7 @@
       compatible = "zmk,keymap";
   layer0 {
           bindings = <
-          &kp LEFT_GUI &kp C &kp L &kp M &kp M &kp K &kp Z &kp F &kp U &kp SINGLE_QUOTE &kp BACKSLASH &kp ESCAPE &kp TAB &kp I &kp S &kp R &kp T &kp G &kp P &kp N &kp E &kp A &kp O &kp SEMICOLON &kp LEFT_ALT &kp Q &kp V &kp W &kp D &kp J &kp B &kp H &kp COMMA &kp DOT &kp X &kp SLASH &kp LEFT_CONTROL &kp BACKSPACE &mo 1 &kp F20 &kp SPACE &kp LEFT_SHIFT
+          &kp LEFT_GUI &kp Y &kp C &kp L &kp M &kp K &kp Z &kp F &kp U &kp SINGLE_QUOTE &kp BACKSLASH &kp ESCAPE &kp TAB &kp I &kp S &kp R &kp T &kp G &kp P &kp N &kp E &kp A &kp O &kp SEMICOLON &kp LEFT_ALT &kp Q &kp V &kp W &kp D &kp J &kp B &kp H &kp COMMA &kp DOT &kp X &kp SLASH &kp LEFT_CONTROL &kp BACKSPACE &mo 1 &kp F20 &kp SPACE &kp LEFT_SHIFT
           >;
         };layer1 {
           bindings = <
