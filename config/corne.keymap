@@ -38,14 +38,5 @@
                                          &kp LEFT_CONTROL  &kp BACKSPACE  &to 0                   &kp ENTER             &kp SPACE  &kp LEFT_SHIFT
             >;
         };
-
-        layer_3 {
-            bindings = <
-&trans  &kp K_SCREENSAVER  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans             &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans             &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-                                   &trans  &trans  &trans    &trans  &trans  &trans
-            >;
-        };
     };
 };
