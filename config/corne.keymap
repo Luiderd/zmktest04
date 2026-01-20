@@ -15,7 +15,7 @@
         purewrite {
             bindings = <&tog 3>;
             key-positions = <37 36 38>;
-            layers = <3>;
+            layers = <3 0>;
         };
     };
 
