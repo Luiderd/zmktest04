@@ -16,3 +16,13 @@
         , <&pro_micro 14 GPIO_ACTIVE_HIGH>
         ;
 };
+
+
+&kscan {
+    row-gpios
+            = <&pro_micro 4 (GPIO_PULL_DOWN | GPIO_ACTIVE_HIGH)>
+            , <&pro_micro 5  (GPIO_PULL_DOWN | GPIO_ACTIVE_HIGH)>
+            , <&gpio0     1  (GPIO_PULL_DOWN | GPIO_ACTIVE_HIGH)>
+            , <&pro_micro 8  (GPIO_PULL_DOWN | GPIO_ACTIVE_HIGH)>
+            ;
+};
